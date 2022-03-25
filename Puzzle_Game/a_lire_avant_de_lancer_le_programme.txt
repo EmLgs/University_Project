@@ -1,0 +1,8 @@
+Musiques/sons :
+A cause des différences entre Linux et Windows, 
+les musiques ont été désactivées sur Linux,
+ cependant si le test est efféctué sur windows vous devriez pouvoir les entendre.
+
+Saisie de texte :
+Pour l'entré du nom, veuillez ne pas mettre de majuscules ou nombres, 
+seuls les minuscules sont acceptés, cela pourrait faire planter le logiciel.
